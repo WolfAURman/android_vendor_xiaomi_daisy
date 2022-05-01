@@ -1194,8 +1194,6 @@ PRODUCT_PACKAGES += \
     libthermalclient \
     libtime_genoff \
     libaudio_log_utils \
-    libts_detected_face_hal \
-    libts_face_beautify_hal \
     CneApp \
     IWlanService \
     TimeService \
